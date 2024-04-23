@@ -1,0 +1,71 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #0A092D;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color: #F6F7FB;
+  }
+div {
+    overflow: hidden;
+}
+.inter-regular {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+
+.title{
+    text-align: center;
+}
+.title h1{
+    font-size: 96px;
+    margin: 0% 0% 0% 0%;
+}
+
+.title p{
+    font-size: 24px;
+    margin: 0% 0% 0% 0%
+}
+
+
+#quiz-boxes-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 5% 0px 5%;
+}
+.quiz-title-box {
+    padding: 0px;
+    margin: 0px 10px 0px 10px;
+    width: 413px;
+    height: 305px;
+    background-color: #2E3856;
+    border-radius: 25px;
+    float: left;
+}
+.quiz-title-text {
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+.quiz-title-text h4 {
+    margin: 20px 0px 0px 0px;
+}
+.quiz-title-text p {
+    margin: 5px 0px 0px 0px;
+}
+
+.white-box-round {
+    background-color: #F6F7FB;
+    width: 413px;
+    height: 200px;
+}
+
+.taskbar {
+    border-bottom: 1px solid #2E3856;
+    margin: 0px;
+}
