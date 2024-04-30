@@ -20,7 +20,7 @@ Danach habe ich dieses Teilweise umgesetzt. Dies ist in dem hier verfügbaren HT
 ## 30.4.2024
 
 - [ ] Herausfinden wie ich einen spezifischen Schriftartentyp auf alles in der Website anwenden kann. (habe es schon in den body-tag gepack, aber das hat irgendwie nicht funktioniert.)
-- [ ] Taskleiste fertigstellen
+- [ ] Navbar fertigstellen
 - [ ] links zu anderen seiten hinzufügen.
 - [ ] login page anfangen (noch keine funktion)
 
