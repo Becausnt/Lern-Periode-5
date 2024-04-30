@@ -19,9 +19,19 @@ Danach habe ich dieses Teilweise umgesetzt. Dies ist in dem hier verfügbaren HT
 
 ## 30.4.2024
 
-- [ ] Herausfinden wie ich einen spezifischen Schriftartentyp auf alles in der Website anwenden kann. (habe es schon in den body-tag gepack, aber das hat irgendwie nicht funktioniert.)
-- [ ] Navbar fertigstellen
-- [ ] links zu anderen seiten hinzufügen.
-- [ ] login page anfangen (noch keine funktion)
+- [x] Herausfinden wie ich einen spezifischen Schriftartentyp auf alles in der Website anwenden kann. (habe es schon in den body-tag gepack, aber das hat irgendwie nicht funktioniert.)
+- [x] Navbar fertigstellen
+- [x] links zu anderen seiten hinzufügen.
+- [x] login page anfangen (noch keine funktion)
+
+## Zusammenfassung
+Heute habe ich herausgefunden das der schrift Tag den ich in body {} gepackt habe offenbar trotzdem funktioniert. Ich habe den Navbar fertiggestellt, es hat einige Links zur Startseite, da ich noch nicht viel anderes gemacht habe. Zudem hat es einen Login-Button. Dieser führt zu einem Login-Form. Das Login-Form funktioniert noch nicht. Ich hatte ein wenig Schwierigkeiten beim stylen des Forms, aber sonst gin alles gut.
+
+
+## Nächstes mal
+- [ ] Einen Footer mit links und credits hinzufügen
+- [ ] Quiz-Seite anfangen
+- [ ] Farbschema beim Login fixen.
+- [ ] falls genug zeit, effekt zu den Quizkarten auf der Homepage hinzufügen
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
