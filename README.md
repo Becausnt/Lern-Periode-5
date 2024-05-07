@@ -27,6 +27,9 @@ Danach habe ich dieses Teilweise umgesetzt. Dies ist in dem hier verfügbaren HT
 ## Zusammenfassung
 Heute habe ich herausgefunden das der schrift Tag den ich in body {} gepackt habe offenbar trotzdem funktioniert. Ich habe den Navbar fertiggestellt, es hat einige Links zur Startseite, da ich noch nicht viel anderes gemacht habe. Zudem hat es einen Login-Button. Dieser führt zu einem Login-Form. Das Login-Form funktioniert noch nicht. Ich hatte ein wenig Schwierigkeiten beim stylen des Forms, aber sonst gin alles gut.
 
+## 07.05.2024
+# Zusammenfassung
+Heute habe ich nicht an meinen Arbeitspacketen gearbeitet, da ich für das Modul 106 noch die Portfolioarbeit machen musste. Mit dieser bin ich jetzt aber fertig geworden. Ich verschiebe deshalb die Arbeitspackete von heute auf das nächste Mal.
 
 ## Nächstes mal
 - [ ] Einen Footer mit links und credits hinzufügen
