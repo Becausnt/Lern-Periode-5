@@ -1,6 +1,6 @@
 # Lern-Periode 5
 
-23.4 bis 25.6.2024
+23.04 bis 25.06.2024
 
 ## Grob-Planung
 
@@ -8,7 +8,7 @@
 2. Als VBV hatte ich, dass ich meine Ziele am Anfang der LB ein wenig grober setzen sollte, so dass ich das Projekt entweder minimal (falls etwas dazwischen kommt oder viele Prüfungen angesagt werden) oder aber auch noch beliebig ausweiten kann.
 4. Als geeignetes Projekte für diese LB empfinde ich: Eine Quiz-Website und {zweites Projekt}
 
-## 23.4.2024
+## 23.04.2024
 Heute habe ich in Figma ein grobes Design der Landing-Page meiner Website entworfen.
 
 ![Quizzes](https://github.com/Becausnt/Lern-Periode-5/assets/142886938/827bb0ca-fdf6-4e90-a3fa-b92497e7b035)
@@ -17,7 +17,7 @@ Danach habe ich dieses Teilweise umgesetzt. Dies ist in dem hier verfügbaren HT
 
 
 
-## 30.4.2024
+## 30.04.2024
 
 - [x] Herausfinden wie ich einen spezifischen Schriftartentyp auf alles in der Website anwenden kann. (habe es schon in den body-tag gepack, aber das hat irgendwie nicht funktioniert.)
 - [x] Navbar fertigstellen
@@ -31,10 +31,28 @@ Heute habe ich herausgefunden das der schrift Tag den ich in body {} gepackt hab
 ## Zusammenfassung
 Heute habe ich nicht an meinen Arbeitspacketen gearbeitet, da ich für das Modul 106 noch die Portfolioarbeit machen musste. Mit dieser bin ich jetzt aber fertig geworden. Ich verschiebe deshalb die Arbeitspackete von heute auf das nächste Mal.
 
-## Nächstes mal
-- [ ] Einen Footer mit links und credits hinzufügen
-- [ ] Quiz-Seite anfangen
-- [ ] Farbschema beim Login fixen.
-- [ ] falls genug zeit, effekt zu den Quizkarten auf der Homepage hinzufügen
+## 21.05.2024
+- [x] Einen Footer mit links und credits hinzufügen
+- [x] Contact Seite anfangen
+- [x] Formspree integrieren
+- [ ] falls genug zeit, einen Effekt zu den Quizkarten auf der Homepage hinzufügen
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+## Zusammenfassung
+Heute habe ich einen Footer zu meiner website hinzugefügt. Bei diesem habe ich mich zu lange mit meinem Browser bekämpft, da ich es nicht hinbrachte eine Liste zu zentrieren. Schlussendlich hat es dann aber doch funktioniert. Aus mir unerklärlichen Gründen bewirkt all das hier:
+```CSS
+.footer .row {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .footer .row ul {
+        display: inline-block;
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        display: inline-block;
+    }
+```
+nichts wenn im `.footer .row .ul ` noch ein `width: 100%;` ist.
+Danach habe ich ein Kontaktformular erstellt, welches zwar dem Login ähnlich ist, aber eine `textarea` anstatt eines `input`s benutzt. Bei diesem musste ich resize deaktivieren, da die Grösse meines Formular-Containers nicht mit der Grösse der `textarea` verknüpft ist. Danach habe ich noch Formspree zum Contact-Form hinzugefügt. Bei diesem hatte ich keine Probleme, aber ein schönes feature wäre, wenn es beim submit nicht auf die Formspree-Seite weiterleiten würde.
