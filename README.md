@@ -59,11 +59,19 @@ Danach habe ich ein Kontaktformular erstellt, welches zwar dem Login ähnlich is
 
 ## 28.05.2024
 
-- [ ] Seite der Quizkarten hinzufügen
-- [ ] Diese Seite Designen
+- [x] Seite der Quizkarten hinzufügen
+- [x] Diese Seite Designen
 - [ ] Lernen wie das eine Quizkartenfunktionalität mit JS hinzugefügt werden kann (Einführung JS)
 - [ ] Lernen wie man mit JS Webseiteninhalte verändern kann.
 
+### Zusammenfassung
+Heute habe ich die Quiz-Seite hinzugefügt, mehr Designs von Quizlet permanent ausgeliehen und mit Herr Colic meine Webseite besprochen. Ich habe die möglichkeit hinzugefügt eine Quiz-Karte zu drehen mithilfe der `:target` _methode?_ . Ich habe nun noch nichts mit JS gemacht, aber ich denke das wäre schon noch praktisch, da das ganze mit `target` sehr mühsam werden kann.
 
+## Nächstes mal
+
+- [ ] Drehanimation zu Karteikarte hinzufügen
+- [ ] Quiz-Seite fertig programmieren
+- [ ] Grundlagen von JS lernen und ein Script einbinden
+- [ ] Quizkarten mit JS programmieren
 
 
