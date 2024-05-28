@@ -24,11 +24,11 @@ Danach habe ich dieses Teilweise umgesetzt. Dies ist in dem hier verfügbaren HT
 - [x] links zu anderen seiten hinzufügen.
 - [x] login page anfangen (noch keine funktion)
 
-## Zusammenfassung
+### Zusammenfassung
 Heute habe ich herausgefunden das der schrift Tag den ich in body {} gepackt habe offenbar trotzdem funktioniert. Ich habe den Navbar fertiggestellt, es hat einige Links zur Startseite, da ich noch nicht viel anderes gemacht habe. Zudem hat es einen Login-Button. Dieser führt zu einem Login-Form. Das Login-Form funktioniert noch nicht. Ich hatte ein wenig Schwierigkeiten beim stylen des Forms, aber sonst gin alles gut.
 
 ## 07.05.2024
-## Zusammenfassung
+### Zusammenfassung
 Heute habe ich nicht an meinen Arbeitspacketen gearbeitet, da ich für das Modul 106 noch die Portfolioarbeit machen musste. Mit dieser bin ich jetzt aber fertig geworden. Ich verschiebe deshalb die Arbeitspackete von heute auf das nächste Mal.
 
 ## 21.05.2024
@@ -37,7 +37,7 @@ Heute habe ich nicht an meinen Arbeitspacketen gearbeitet, da ich für das Modul
 - [x] Formspree integrieren
 - [ ] falls genug zeit, einen Effekt zu den Quizkarten auf der Homepage hinzufügen
 
-## Zusammenfassung
+### Zusammenfassung
 Heute habe ich einen Footer zu meiner website hinzugefügt. Bei diesem habe ich mich zu lange mit meinem Browser bekämpft, da ich es nicht hinbrachte eine Liste zu zentrieren. Schlussendlich hat es dann aber doch funktioniert. Aus mir unerklärlichen Gründen bewirkt all das hier:
 ```CSS
 .footer .row {
@@ -57,9 +57,9 @@ Heute habe ich einen Footer zu meiner website hinzugefügt. Bei diesem habe ich 
 nichts wenn im `.footer .row .ul ` noch ein `width: 100%;` ist.
 Danach habe ich ein Kontaktformular erstellt, welches zwar dem Login ähnlich ist, aber eine `textarea` anstatt eines `input`s benutzt. Bei diesem musste ich resize deaktivieren, da die Grösse meines Formular-Containers nicht mit der Grösse der `textarea` verknüpft ist. Danach habe ich noch Formspree zum Contact-Form hinzugefügt. Bei diesem hatte ich keine Probleme, aber ein schönes feature wäre, wenn es beim submit nicht auf die Formspree-Seite weiterleiten würde.
 
-# 28.05.2024
+## 28.05.2024
 
-## Arbeitspakete
+### Arbeitspakete
 - [ ] Seite der Quizkarten hinzufügen
 - [ ] Diese Seite Designen
 - [ ] Lernen wie das eine Quizkartenfunktionalität mit JS hinzugefügt werden kann (Einführung JS)
