@@ -56,3 +56,15 @@ Heute habe ich einen Footer zu meiner website hinzugefügt. Bei diesem habe ich 
 ```
 nichts wenn im `.footer .row .ul ` noch ein `width: 100%;` ist.
 Danach habe ich ein Kontaktformular erstellt, welches zwar dem Login ähnlich ist, aber eine `textarea` anstatt eines `input`s benutzt. Bei diesem musste ich resize deaktivieren, da die Grösse meines Formular-Containers nicht mit der Grösse der `textarea` verknüpft ist. Danach habe ich noch Formspree zum Contact-Form hinzugefügt. Bei diesem hatte ich keine Probleme, aber ein schönes feature wäre, wenn es beim submit nicht auf die Formspree-Seite weiterleiten würde.
+
+# 28.05.2024
+
+## Arbeitspakete
+- [ ] Seite der Quizkarten hinzufügen
+- [ ] Diese Seite Designen
+- [ ] Lernen wie das eine Quizkartenfunktionalität mit JS hinzugefügt werden kann (Einführung JS)
+- [ ] Lernen wie man mit JS Webseiteninhalte verändern kann.
+
+
+
+
