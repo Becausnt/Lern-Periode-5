@@ -59,7 +59,6 @@ Danach habe ich ein Kontaktformular erstellt, welches zwar dem Login ähnlich is
 
 ## 28.05.2024
 
-### Arbeitspakete
 - [ ] Seite der Quizkarten hinzufügen
 - [ ] Diese Seite Designen
 - [ ] Lernen wie das eine Quizkartenfunktionalität mit JS hinzugefügt werden kann (Einführung JS)
