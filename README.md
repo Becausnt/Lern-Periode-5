@@ -67,11 +67,19 @@ Danach habe ich ein Kontaktformular erstellt, welches zwar dem Login ähnlich is
 ### Zusammenfassung
 Heute habe ich die Quiz-Seite hinzugefügt, mehr Designs von Quizlet permanent ausgeliehen und mit Herr Colic meine Webseite besprochen. Ich habe die möglichkeit hinzugefügt eine Quiz-Karte zu drehen mithilfe der `:target` _methode?_ . Ich habe nun noch nichts mit JS gemacht, aber ich denke das wäre schon noch praktisch, da das ganze mit `target` sehr mühsam werden kann.
 
-## Nächstes mal
+## 11.06.2024
 
 - [ ] Drehanimation zu Karteikarte hinzufügen
 - [ ] Quiz-Seite fertig programmieren
 - [ ] Grundlagen von JS lernen und ein Script einbinden
 - [ ] Quizkarten mit JS programmieren
 
+### Zusammenfassung
+Heute habe ich nicht viel geschafft. Dies liegt zum grössten Teil daran, dass ich windows neu Installieren musste, da ich vermutlich mit Malware oder einem Cryptominer infiziert war. Dies nahm einige Zeit in anspruch und nun wird mir auch der Lizenzschlüssel für Visual Studio Enterprise nicht mehr angezeigt. Ich plane damit morgen zum IT-Support an der BBB zu gehen. Der grösste Teil meiner Arbeit wurde zum glück auf dem OneDrive gespeichert, aber ich betrachte diese Dateien nur mit äusserster vorsicht, da ich nicht weiss ob sich das Schadprogramm dort abgelegt hat. Dank meiner Sicherheitseinstellungen können Programme die nicht Benutzergesteuert sind keine Dateien in den OneDrive legen, aber ich bin trotzdem vorsichtig.
 
+## Nächstes Mal
+
+- [ ] Drehanimation zu Karteikarte hinzufügen
+- [ ] Quiz-Seite fertig programmieren
+- [ ] Grundlagen von JS lernen und ein Script einbinden
+- [ ] Quizkarten mit JS programmieren
