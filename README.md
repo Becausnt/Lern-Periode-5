@@ -77,9 +77,13 @@ Heute habe ich die Quiz-Seite hinzugefügt, mehr Designs von Quizlet permanent a
 ### Zusammenfassung
 Heute habe ich nicht viel geschafft. Dies liegt zum grössten Teil daran, dass ich windows neu Installieren musste, da ich vermutlich mit Malware oder einem Cryptominer infiziert war. Dies nahm einige Zeit in anspruch und nun wird mir auch der Lizenzschlüssel für Visual Studio Enterprise nicht mehr angezeigt. Ich plane damit morgen zum IT-Support an der BBB zu gehen. Der grösste Teil meiner Arbeit wurde zum glück auf dem OneDrive gespeichert, aber ich betrachte diese Dateien nur mit äusserster vorsicht, da ich nicht weiss ob sich das Schadprogramm dort abgelegt hat. Dank meiner Sicherheitseinstellungen können Programme die nicht Benutzergesteuert sind keine Dateien in den OneDrive legen, aber ich bin trotzdem vorsichtig.
 
-## Nächstes Mal
+## 18.06.2024
 
 - [ ] Drehanimation zu Karteikarte hinzufügen
 - [ ] Quiz-Seite fertig programmieren
 - [ ] Grundlagen von JS lernen und ein Script einbinden
 - [ ] Quizkarten mit JS programmieren
+
+### Zusammenfassung
+Heute habe ich an den LBs von M122 und M293 gearbeitet. Ich habe mein Powershell Skript fertiggestellt und and den Dokumentationen gearbeitet. (Wer braucht 3 Dokumentationen!?) Mein skript kann nun die Dateien auf VT hochladen und crasht nicht mehr. Zudem werden die schon gescannten Dateien in eine Datei geschrieben und danach nicht mehr gescannt.
+
