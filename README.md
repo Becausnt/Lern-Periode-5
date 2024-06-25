@@ -87,3 +87,17 @@ Heute habe ich nicht viel geschafft. Dies liegt zum grössten Teil daran, dass i
 ### Zusammenfassung
 Heute habe ich an den LBs von M122 und M293 gearbeitet. Ich habe mein Powershell Skript fertiggestellt und and den Dokumentationen gearbeitet. (Wer braucht 3 Dokumentationen!?) Mein skript kann nun die Dateien auf VT hochladen und crasht nicht mehr. Zudem werden die schon gescannten Dateien in eine Datei geschrieben und danach nicht mehr gescannt.
 
+# Fertiges Projekt
+Meine Website hat, wie jede gute Website eine Homepage. Auf dieser sind einige Karten mit gerundeten Ecken zu sehen. Anstelle des Weissen Teils können auch Bilder eingefügt werden (im code). Zudem hat meine Seite eine Login-Page. Diese ist nicht funktionsfähig, da kein Backend vorhanden ist. Dafür funktioniert aber das Kontaktformular. Dieses verwendet einen externen Service welcher die Nachrichten an mich weiterleitet. Seiten für die Quizkarten sind vorhanden, aber deren CSS scheint sich nicht vollständig mit dem OneDrive synchronisiert zu habe bevor ich meinen Computer zurückgesetzt habe. 
+
+![image](https://github.com/Becausnt/Lern-Periode-5/assets/142886938/7264b2f4-0c0a-4bef-bf81-c3b6c690a39b)
+
+Dies ist mein Kontakt-Formular.
+
+![image](https://github.com/Becausnt/Lern-Periode-5/assets/142886938/3c76a055-7092-494b-8ae0-4e9e36cc2ad2)
+
+Dies ist ein Teil meiner Startseite mit gestyltem Footer, rechtlich korrekter Lizenz und fixem Navbar.
+
+![ezgif-1-f311c40973](https://github.com/Becausnt/Lern-Periode-5/assets/142886938/a467bb3d-66bc-401f-8c81-2bb74b77c512)
+
+Ein Gif meiner Website.
